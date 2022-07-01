@@ -358,6 +358,7 @@ color: #d5001c;
 .rowcol {
 height: 300px !important;
 }
+/* responsive for mobile */
 @media screen and (max-width: 576px) {
 .menucar img {
 transform: scale(0.6);
